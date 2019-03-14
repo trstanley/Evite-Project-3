@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: #f7d385;
+}
+
+.title{
+    font-family: 'Tenali Ramakrishna', sans-serif;
+}
+.question{
+    font-family: 'Tenali Ramakrishna', sans-serif;
+    font-size:20pt;
+}
+.img{
+    width: 300px;
+}
+.comments{
+    background-color:#e9f2a4;
+   
+}
